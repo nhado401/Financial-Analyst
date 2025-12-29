@@ -60,7 +60,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ### Portfolio Configuration
 
-Edit the `PORTFOLIO` list in `analyst.py` to track your stocks:
+Edit the `PORTFOLIO` list in `src/analyst.py` to track your stocks:
 
 ```python
 PORTFOLIO = ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA']  # Add your stocks here
@@ -69,7 +69,7 @@ PORTFOLIO = ['AAPL', 'MSFT', 'GOOGL', 'NVDA', 'TSLA']  # Add your stocks here
 ## 🏃 Running the Application
 
 ```bash
-python analyst.py
+python src/analyst.py
 ```
 
 The application will:
