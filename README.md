@@ -143,6 +143,5 @@ The tool uses Ollama (local LLM) to analyze market conditions and provide:
 
 ## 📬 Contact
 
-[Nha Do] - [nhado401@gmail.com] | [ndo46@gatech.edu]  
+[Nha Do] - [nhado401@gmail.com]
 Project Link: [https://github.com/nhado401/financial-analyst](https://github.com/nhado401/financial-analyst)  
-Georgia Tech Repo: [https://github.gatech.edu/ndo46/CS6795_SP26_TERM_PROJECT_FINANCIAL_ANALYST](https://github.gatech.edu/ndo46/CS6795_SP26_TERM_PROJECT_FINANCIAL_ANALYST.git)
